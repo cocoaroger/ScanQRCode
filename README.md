@@ -1,2 +1,2 @@
 # ScanQRCode
-扫描二维码
+iOS原生扫描二维码
